@@ -200,7 +200,7 @@ def MainClass():
             screenshot()
             speak('Screenshot saved')
             
-        elif 'play songs' in query:
+        elif 'songs' in query or 'song' in query:
             os.system("capture.py")
 
 
