@@ -1,5 +1,4 @@
 # Multilingual Online Translator
-# Author: Jason Tolbert (https://github.com/jasonalantolbert)
 # Python Version: 3.8
 
 
